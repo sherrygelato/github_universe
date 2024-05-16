@@ -2,3 +2,4 @@
 456머지충돌
 laire scare!
 5.16 fast-forward merge
+이건 se2 브랜치를 위한 텍스트라오
