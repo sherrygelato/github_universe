@@ -8,6 +8,6 @@ var Max = "max";
 var Min = "min";
 
 var i = 0;
-var j = 1;
-var k = 22;
+var j = 22;
+var k = 11;
 var l = 333;
