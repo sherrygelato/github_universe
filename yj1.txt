@@ -1,4 +1,2 @@
-yj's 1st branch - change made on yj_branch1
-new line added on yj_branch1
-but change made on 2nd branch
-to make 3-way merge conflict-conflict resolved
+yj's 1st branch
+3-way merged conflict resolved
